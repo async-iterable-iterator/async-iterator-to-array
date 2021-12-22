@@ -1,7 +1,7 @@
 {
   "name": "@async-iterable-iterator/async-iterator-to-array",
   "description": "AsyncIterator to Array conversion for JavaScript",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "AGPL-3.0",
   "author": "make-github-pseudonymous-again",
   "homepage": "https://async-iterable-iterator.github.io/async-iterator-to-array",
