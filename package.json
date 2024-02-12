@@ -25,7 +25,7 @@
   "source": "src/index.js",
   "main": "dist/index.cjs",
   "module": "dist/index.module.mjs",
-  "esmodule": "dist/index.modern.mjs",
+  "esmodule": "dist/index.modern.js",
   "umd:main": "dist/index.umd.js",
   "unpkg": "dist/index.umd.js",
   "exports": {
@@ -33,7 +33,7 @@
       "browser": "./dist/index.module.mjs",
       "umd": "./dist/index.umd.js",
       "require": "./dist/index.cjs",
-      "default": "./dist/index.modern.mjs"
+      "default": "./dist/index.modern.js"
     }
   },
   "files": [
