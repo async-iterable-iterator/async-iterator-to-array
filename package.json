@@ -23,7 +23,7 @@
   "sideEffects": false,
   "type": "commonjs",
   "source": "src/index.js",
-  "main": "dist/index.js",
+  "main": "dist/index.cjs",
   "module": "dist/index.module.mjs",
   "esmodule": "dist/index.modern.mjs",
   "umd:main": "dist/index.umd.js",
@@ -32,7 +32,7 @@
     ".": {
       "browser": "./dist/index.module.mjs",
       "umd": "./dist/index.umd.js",
-      "require": "./dist/index.js",
+      "require": "./dist/index.cjs",
       "default": "./dist/index.modern.mjs"
     }
   },
