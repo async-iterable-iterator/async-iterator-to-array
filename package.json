@@ -21,7 +21,7 @@
     "to"
   ],
   "sideEffects": false,
-  "type": "commonjs",
+  "type": "module",
   "source": "src/index.js",
   "main": "dist/index.cjs",
   "module": "dist/index.module.mjs",
