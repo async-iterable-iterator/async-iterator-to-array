@@ -24,13 +24,13 @@
   "type": "module",
   "source": "src/index.js",
   "main": "dist/index.cjs",
-  "module": "dist/index.module.mjs",
+  "module": "dist/index.module.js",
   "esmodule": "dist/index.modern.js",
   "umd:main": "dist/index.umd.js",
   "unpkg": "dist/index.umd.js",
   "exports": {
     ".": {
-      "browser": "./dist/index.module.mjs",
+      "browser": "./dist/index.module.js",
       "umd": "./dist/index.umd.js",
       "require": "./dist/index.cjs",
       "default": "./dist/index.modern.js"
