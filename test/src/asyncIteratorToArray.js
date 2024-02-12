@@ -1,6 +1,6 @@
 import test from 'ava';
 
-import {asyncIteratorToArray} from '../../src/index.js';
+import {asyncIteratorToArray} from '#module';
 
 test('works with sync iterator', async (t) => {
 	const expected = [Math.random(), 3, 'x', {}, new Date()];

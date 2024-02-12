@@ -17,7 +17,7 @@ let array = await asyncIteratorToArray(asyncIterator);
 
 [![License](https://img.shields.io/github/license/async-iterable-iterator/async-iterator-to-array.svg)](https://raw.githubusercontent.com/async-iterable-iterator/async-iterator-to-array/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@async-iterable-iterator/async-iterator-to-array.svg)](https://www.npmjs.org/package/@async-iterable-iterator/async-iterator-to-array)
-[![Tests](https://img.shields.io/github/workflow/status/async-iterable-iterator/async-iterator-to-array/ci:cover?event=push&label=tests)](https://github.com/async-iterable-iterator/async-iterator-to-array/actions/workflows/ci:cover.yml?query=branch:main)
+[![Tests](https://img.shields.io/github/workflow/status/async-iterable-iterator/async-iterator-to-array/ci?event=push&label=tests)](https://github.com/async-iterable-iterator/async-iterator-to-array/actions/workflows/ci.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/librariesio/github/async-iterable-iterator/async-iterator-to-array.svg)](https://github.com/async-iterable-iterator/async-iterator-to-array/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/async-iterable-iterator/async-iterator-to-array.svg)](https://github.com/async-iterable-iterator/async-iterator-to-array/issues)
 [![Downloads](https://img.shields.io/npm/dm/@async-iterable-iterator/async-iterator-to-array.svg)](https://www.npmjs.org/package/@async-iterable-iterator/async-iterator-to-array)
